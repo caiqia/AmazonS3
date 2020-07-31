@@ -3,6 +3,7 @@ import cp from 'child_process';
 import process from 'process';
 import path from 'path';
 
+
 const rootPath = path.join(__dirname, 'tests', 'functional');
 
 function log(message) {
